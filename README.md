@@ -27,3 +27,6 @@ Receiver ESP32
        |
        |
     Motors
+
+IMPORTANT
+Make sure to get the receiver MAX of your receiver ESP32 first.
